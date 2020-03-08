@@ -1,0 +1,13 @@
+[package]
+name = "checkdigit"
+version = "0.1.0"
+authors = ["LiosK <contact@mail.liosk.net>"]
+license = "MIT OR Apache-2.0"
+edition = "2018"
+description = "Check Digit Algorithms in Rust"
+repository = "https://github.com/LiosK/rust-checkdigit"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fnv = "1.0.6"
